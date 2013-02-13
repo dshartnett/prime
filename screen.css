@@ -1,5 +1,9 @@
 /* line 1 */
 
+html{
+overflow: hidden;
+}
+
 body {
   font-family: Verdana;
   font-size: 12pt;
@@ -23,10 +27,11 @@ padding-right: 0;
 margin-left: auto;
 margin-right: auto;
 display: block;
-  cursor: crosshair;
 }
 
 table {
+margin-left: auto;
+margin-right: auto;
 border-spacing: 30px 0px;
 }
 
